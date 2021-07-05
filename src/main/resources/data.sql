@@ -1,0 +1,5 @@
+INSERT INTO CATEGORIA(nome) VALUES('eletrodomestico');
+INSERT INTO CATEGORIA(nome) VALUES('roupa');
+INSERT INTO CATEGORIA(nome) VALUES('pet');
+INSERT INTO CATEGORIA(nome) VALUES('eletronicos');
+INSERT INTO CATEGORIA(nome) VALUES('automotivo');
